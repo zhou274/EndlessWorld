@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: 9683ff359d84b004a9ec8e68205ac597
+timeCreated: 1455715329
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Plane Slice 4-0
+    100004: Plane Slice 4-1
+    100006: Plane Slice 4-10
+    100008: Plane Slice 4-11
+    100010: Plane Slice 4-12
+    100012: Plane Slice 4-13
+    100014: Plane Slice 4-14
+    100016: Plane Slice 4-15
+    100018: Plane Slice 4-16
+    100020: Plane Slice 4-2
+    100022: Plane Slice 4-3
+    100024: Plane Slice 4-4
+    100026: Plane Slice 4-5
+    100028: Plane Slice 4-6
+    100030: Plane Slice 4-7
+    100032: Plane Slice 4-8
+    100034: Plane Slice 4-9
+    100036: Plane Slice 3-0
+    100038: Plane Slice 3-1
+    100040: Plane Slice 3-10
+    100042: Plane Slice 3-11
+    100044: Plane Slice 3-12
+    100046: Plane Slice 3-13
+    100048: Plane Slice 3-2
+    100050: Plane Slice 3-3
+    100052: Plane Slice 3-4
+    100054: Plane Slice 3-5
+    100056: Plane Slice 3-6
+    100058: Plane Slice 3-7
+    100060: Plane Slice 3-8
+    100062: Plane Slice 3-9
+    400000: //RootNode
+    400002: Plane Slice 4-0
+    400004: Plane Slice 4-1
+    400006: Plane Slice 4-10
+    400008: Plane Slice 4-11
+    400010: Plane Slice 4-12
+    400012: Plane Slice 4-13
+    400014: Plane Slice 4-14
+    400016: Plane Slice 4-15
+    400018: Plane Slice 4-16
+    400020: Plane Slice 4-2
+    400022: Plane Slice 4-3
+    400024: Plane Slice 4-4
+    400026: Plane Slice 4-5
+    400028: Plane Slice 4-6
+    400030: Plane Slice 4-7
+    400032: Plane Slice 4-8
+    400034: Plane Slice 4-9
+    400036: Plane Slice 3-0
+    400038: Plane Slice 3-1
+    400040: Plane Slice 3-10
+    400042: Plane Slice 3-11
+    400044: Plane Slice 3-12
+    400046: Plane Slice 3-13
+    400048: Plane Slice 3-2
+    400050: Plane Slice 3-3
+    400052: Plane Slice 3-4
+    400054: Plane Slice 3-5
+    400056: Plane Slice 3-6
+    400058: Plane Slice 3-7
+    400060: Plane Slice 3-8
+    400062: Plane Slice 3-9
+    2300000: Plane Slice 4-0
+    2300002: Plane Slice 4-1
+    2300004: Plane Slice 4-10
+    2300006: Plane Slice 4-11
+    2300008: Plane Slice 4-12
+    2300010: Plane Slice 4-13
+    2300012: Plane Slice 4-14
+    2300014: Plane Slice 4-15
+    2300016: Plane Slice 4-16
+    2300018: Plane Slice 4-2
+    2300020: Plane Slice 4-3
+    2300022: Plane Slice 4-4
+    2300024: Plane Slice 4-5
+    2300026: Plane Slice 4-6
+    2300028: Plane Slice 4-7
+    2300030: Plane Slice 4-8
+    2300032: Plane Slice 4-9
+    2300034: Plane Slice 3-0
+    2300036: Plane Slice 3-1
+    2300038: Plane Slice 3-10
+    2300040: Plane Slice 3-11
+    2300042: Plane Slice 3-12
+    2300044: Plane Slice 3-13
+    2300046: Plane Slice 3-2
+    2300048: Plane Slice 3-3
+    2300050: Plane Slice 3-4
+    2300052: Plane Slice 3-5
+    2300054: Plane Slice 3-6
+    2300056: Plane Slice 3-7
+    2300058: Plane Slice 3-8
+    2300060: Plane Slice 3-9
+    3300000: Plane Slice 4-0
+    3300002: Plane Slice 4-1
+    3300004: Plane Slice 4-10
+    3300006: Plane Slice 4-11
+    3300008: Plane Slice 4-12
+    3300010: Plane Slice 4-13
+    3300012: Plane Slice 4-14
+    3300014: Plane Slice 4-15
+    3300016: Plane Slice 4-16
+    3300018: Plane Slice 4-2
+    3300020: Plane Slice 4-3
+    3300022: Plane Slice 4-4
+    3300024: Plane Slice 4-5
+    3300026: Plane Slice 4-6
+    3300028: Plane Slice 4-7
+    3300030: Plane Slice 4-8
+    3300032: Plane Slice 4-9
+    3300034: Plane Slice 3-0
+    3300036: Plane Slice 3-1
+    3300038: Plane Slice 3-10
+    3300040: Plane Slice 3-11
+    3300042: Plane Slice 3-12
+    3300044: Plane Slice 3-13
+    3300046: Plane Slice 3-2
+    3300048: Plane Slice 3-3
+    3300050: Plane Slice 3-4
+    3300052: Plane Slice 3-5
+    3300054: Plane Slice 3-6
+    3300056: Plane Slice 3-7
+    3300058: Plane Slice 3-8
+    3300060: Plane Slice 3-9
+    4300000: Plane Slice 4-16
+    4300002: Plane Slice 4-15
+    4300004: Plane Slice 4-13
+    4300006: Plane Slice 4-14
+    4300008: Plane Slice 4-0
+    4300010: Plane Slice 4-1
+    4300012: Plane Slice 4-2
+    4300014: Plane Slice 4-4
+    4300016: Plane Slice 4-3
+    4300018: Plane Slice 4-5
+    4300020: Plane Slice 4-10
+    4300022: Plane Slice 4-6
+    4300024: Plane Slice 4-7
+    4300026: Plane Slice 4-8
+    4300028: Plane Slice 4-9
+    4300030: Plane Slice 4-11
+    4300032: Plane Slice 4-12
+    4300034: Plane Slice 3-12
+    4300036: Plane Slice 3-11
+    4300038: Plane Slice 3-10
+    4300040: Plane Slice 3-8
+    4300042: Plane Slice 3-7
+    4300044: Plane Slice 3-6
+    4300046: Plane Slice 3-9
+    4300048: Plane Slice 3-5
+    4300050: Plane Slice 3-4
+    4300052: Plane Slice 3-3
+    4300054: Plane Slice 3-2
+    4300056: Plane Slice 3-1
+    4300058: Plane Slice 3-0
+    4300060: Plane Slice 3-13
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
