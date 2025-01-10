@@ -37,7 +37,7 @@ public class TouchTap : MonoBehaviour {
 		}
 			
 		foreach (GameObject g in touchOld){
-		if(!touchList.Contains(g)){
+		if(g!=null&&!touchList.Contains(g)){
 		g.SendMessage("OnTouchDown",hit.point,SendMessageOptions.DontRequireReceiver);
 		}
 		}
