@@ -159,9 +159,8 @@ public class SystemKilling : MonoBehaviour {
             }
             yield return new WaitForSeconds(0.05f);
         }
-        ShowInterstitialAd("1lcaf5895d5l1293dc",
+        ShowInterstitialAd("81me0b9l59bc36a996",
             () => {
-                Debug.LogError("--插屏广告完成--");
 
             },
             (it, str) => {
@@ -177,7 +176,7 @@ public class SystemKilling : MonoBehaviour {
     }
 	public void ContinueGame()
 	{
-        ShowVideoAd("192if3b93qo6991ed0",
+        ShowVideoAd("3a4gg4kf453ehb1a4n",
             (bol) => {
                 if (bol)
                 {
